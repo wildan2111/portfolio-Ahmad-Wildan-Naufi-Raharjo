@@ -9,7 +9,7 @@ const translations = {
     hero_role: "Fullstack Developer",
     hero_hello: "Halo, saya",
     hero_lead:
-      "Lulusan D4 Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Banyuwangi. Saya membangun aplikasi web dan mobile yang rapi, berguna, dan siap dipakai — dari frontend hingga backend.",
+      "Lulusan D4 Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Banyuwangi. Saya membangun aplikasi web dan mobile yang rapi, berguna, dan siap dipakai. dari frontend hingga backend.",
     btn_cv: "Unduh CV",
     btn_work: "Lihat proyek",
     about_kicker: "Tentang saya",
@@ -86,13 +86,13 @@ const translations = {
     hero_role: "Fullstack Developer",
     hero_hello: "Hello, I am",
     hero_lead:
-      "D4 Software Engineering Technology graduate from Politeknik Negeri Banyuwangi. I build clean, useful web and mobile apps — from the interface to the backend.",
+      "D4 Software Engineering Technology graduate from Politeknik Negeri Banyuwangi. I build clean, useful web and mobile apps. from the interface to the backend.",
     btn_cv: "Download CV",
     btn_work: "View projects",
     about_kicker: "About",
     about_title: "A fullstack developer who ships systems people actually use",
     about_text:
-      "I am a D4 Software Engineering Technology graduate from Politeknik Negeri Banyuwangi. I design and build web apps from the interface to the API — clinic-system migrations, operational dashboards, and mobile products.",
+      "I am a D4 Software Engineering Technology graduate from Politeknik Negeri Banyuwangi. I design and build web apps from the interface to the API. clinic-system migrations, operational dashboards, and mobile products.",
     about_text_2:
       "At a software house I built client sites with WordPress. At the Banyuwangi Health Office I helped migrate SIMPUSWANGI to Laravel and Vue.js. My thesis, Safety Patrol K3LH, was a solo fullstack build.",
     about_fact1_title: "Education",
